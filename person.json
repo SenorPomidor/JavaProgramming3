@@ -1,5 +1,1 @@
-{
-    "id": "1",
-    "name": "Petrovich",
-    "lastName": "Ivanov"
-}
+{"id": "1","name": "Petrovich","lastName": "Ivanov","tasks": [{"taskId": "1","content": "Hello World!"},{"taskId": "2","content": "Hello World2!"},{"taskId": "3","content": "Hello World3!"}]}

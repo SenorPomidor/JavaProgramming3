@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Person>
-    <id>1</id>
-    <name>Petrovich</name>
-    <lastName>Ivanov</lastName>
-</Person>
+<Person><id>1</id><name>Petrovich</name><lastName>Ivanov</lastName><tasks><Task><taskId>1</taskId><content>Hello World!</content></Task><Task><taskId>2</taskId><content>Hello World2!</content></Task><Task><taskId>3</taskId><content>Hello World3!</content></Task></tasks></Person>
